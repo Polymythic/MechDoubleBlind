@@ -1,1 +1,1 @@
-"# MechDoubleBlind" 
+# MechDoubleBlind
