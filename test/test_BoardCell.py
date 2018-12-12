@@ -3,7 +3,7 @@ import BoardCell
 
 class TestBoardCell(unittest.TestCase):
     '''
-    Test class for Board Cell
+    Test Class for Board Cell
     '''
 
     def test_setsmembervariables(self):
